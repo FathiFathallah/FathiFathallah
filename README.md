@@ -35,7 +35,7 @@
 
 ![Fathi's Github Status](https://github-readme-stats.vercel.app/api?username=FathiFathallah&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FathiFathallah&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FathiFathallah&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000&layout=compact)](https://github.com/FathiFathallah)
 
 
 
