@@ -42,7 +42,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fathi-fathallah-ali-521576219/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fathi%20Fathallah%20Ali-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/fathifathallah/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fathi%20Fathallah%20Ali-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ifat7i/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ifat7i-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:fathi.fathallah@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-fathi.fathallah@outlook-blue?style=flat-square&logo=gmail"></a>
 </p>
