@@ -14,11 +14,10 @@ I'm a passionate Computer Engineer. My interests primarily revolves around AI an
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FathiFathallah&layout=compact&theme=dark)](https://github.com/FathiFathallah)
 
-<!-- Featured Repositories -->
-## Featured Repositories
+<!-- All Languages -->
+## All Languages Used in Repositories
 
-<!-- Repository 1 -->
-[![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=FathiFathallah&repo=repository-1&theme=dark)](https://github.com/FathiFathallah/repository-1)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FathiFathallah&layout=compact&theme=dark&langs_count=10)
 
 <!-- Repository 2 -->
 [![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=FathiFathallah&repo=repository-2&theme=dark)](https://github.com/FathiFathallah/repository-2)
