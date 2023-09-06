@@ -22,7 +22,8 @@ I'm a passionate Computer Engineer. My interests primarily revolves around AI an
 [![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=FathiFathallah&repo=AlumniBackEnd&theme=dark)](https://github.com/FathiFathallah/AlumniBackEnd)
 
 <!-- Repository 3 -->
-[![Repository 3](https://github-readme-stats.vercel.app/api/pin/?username=FathiFathallah&repo=repository-3&theme=dark)](https://github.com/FathiFathallah/repository-3)
+[![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=FathiFathallah&repo=Network-Users-Manager&theme=dark)](https://github.com/FathiFathallah/Network-Users-Manager)
+
 
 <!-- Contact and Social Media -->
 ## Contact & Social Media
