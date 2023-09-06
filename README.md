@@ -19,7 +19,7 @@ I'm a passionate Computer Engineer. My interests primarily revolves around AI an
 [![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=FathiFathallah&repo=IntrotoProgramming-nanodegree&theme=dark)](https://github.com/FathiFathallah/IntrotoProgramming-nanodegree)
 
 <!-- Repository 2 -->
-[![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=FathiFathallah&repo=repository-2&theme=dark)](https://github.com/FathiFathallah/repository-2)
+[![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=FathiFathallah&repo=AlumniBackEnd&theme=dark)](https://github.com/FathiFathallah/AlumniBackEnd)
 
 <!-- Repository 3 -->
 [![Repository 3](https://github-readme-stats.vercel.app/api/pin/?username=FathiFathallah&repo=repository-3&theme=dark)](https://github.com/FathiFathallah/repository-3)
