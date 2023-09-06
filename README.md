@@ -9,15 +9,14 @@ I'm a passionate Computer Engineer. My interests primarily revolves around AI an
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FathiFathallah&show_icons=true&count_private=true&theme=dark)](https://github.com/FathiFathallah)
 
-<!-- Top Languages -->
-## Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FathiFathallah&layout=compact&theme=dark)](https://github.com/FathiFathallah)
 
 <!-- All Languages -->
 ## All Languages Used in Repositories
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FathiFathallah&layout=compact&theme=dark&langs_count=10)
+
+<!-- Repository 1 -->
+[![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=FathiFathallah&repo=repository-2&theme=dark)](https://github.com/FathiFathallah/IntrotoProgramming-nanodegree)
 
 <!-- Repository 2 -->
 [![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=FathiFathallah&repo=repository-2&theme=dark)](https://github.com/FathiFathallah/repository-2)
