@@ -4,10 +4,12 @@
 <!-- Your Bio -->
 I'm a passionate Computer Engineer. My interests primarily revolves around AI and Machine Learning. Here, you can find some of my featured repositories and projects.
 
+
 <!-- GitHub Stats -->
 ## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FathiFathallah&show_icons=true&count_private=true&theme=dark)](https://github.com/FathiFathallah)
+
 
 
 <!-- All Languages -->
