@@ -2,7 +2,7 @@
 # Hello, I'm Fathi FathAllah 👋
 
 <!-- Your Bio -->
-I'm a passionate Computer Engineer. My interests primarily revolves around Back-End Engineering, AI and Machine Learning. Here, you can find some of my featured repositories and projects.
+I'm a passionate Computer Engineer. My interests primarily revolves around Back-End Engineering and Computer Networks. Here, you can find some of my featured repositories and projects.
 
 
 <!-- GitHub Stats -->
