@@ -2,7 +2,7 @@
 # Hello, I'm Fathi FathAllah 👋
 
 <!-- Your Bio -->
-Disciplined and insightful 23 years old fresh Computer Engineering graduate. Highly organized, self-motivated and detail-oriented. Eager to join your entreprise. Interested in Back-End Engineering and Computer Networks. Pursuing an internship in these domains.
+Disciplined and insightful 23 years old fresh Computer Engineering graduate. Highly organized, self-motivated and detail-oriented. Eager to join your entreprise. Interested in Back-End Engineering and Computer Networks. Pursuing an internship/entry job in these domains.
 
 <!-- GitHub Stats -->
 ## GitHub Stats
