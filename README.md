@@ -2,8 +2,7 @@
 # Hello, I'm Fathi FathAllah 👋
 
 <!-- Your Bio -->
-I'm a passionate Computer Engineer. My interests primarily revolves around Back-End Engineering and Computer Networks. Here, you can find some of my featured repositories and projects.
-
+Disciplined and insightful 23 years old fresh Computer Engineering graduate. Highly organized, self-motivated and detail-oriented. Eager to join your entreprise. Interested in Back-End Engineering and Computer Networks. Pursuing an internship in these domains.
 
 <!-- GitHub Stats -->
 ## GitHub Stats
